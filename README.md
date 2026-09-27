@@ -1,6 +1,6 @@
 # common
 
-Shared Java library for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+Shared Java library for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 
 Holds `JwtUtils` — a plain (non-Spring) HS256 helper for generating and parsing tokens, with an
 injectable `Clock` for testability.
